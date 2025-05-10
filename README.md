@@ -6,5 +6,5 @@ PROTOTIPO
 
 PLANTILLAS
 
-<"https://www.figma.com/design/gP5jACxEM8hjw16C3dXcYb/EcoGota?node-id=0-1&m=dev&t=8vL8xDSBrBWvOeyA-1"
->
+"https://www.figma.com/design/gP5jACxEM8hjw16C3dXcYb/EcoGota?node-id=0-1&m=dev&t=8vL8xDSBrBWvOeyA-1"
+
